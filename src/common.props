@@ -15,7 +15,7 @@ Upgraded to [Petabridge.Cmd v0.8.5](https://cmd.petabridge.com/articles/RELEASE_
     <NoWarn>$(NoWarn);CS1591</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
-    <XunitVersion>2.4.1</XunitVersion>
+    <XunitVersion>2.8.1</XunitVersion>
     <MicrosoftSdkVersion>16.10.0</MicrosoftSdkVersion>
     <FluentAssertionsVersion>5.10.3</FluentAssertionsVersion>
     <NetCoreVersion>netcoreapp3.1</NetCoreVersion>
